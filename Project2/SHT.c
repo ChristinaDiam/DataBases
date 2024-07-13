@@ -205,7 +205,7 @@ SHT_info *SHT_OpenSecondaryIndex(char *sfileName)
 {
 	/* String which will save the type of the file with name 'fileName' */
 
-	char typeOfFile[14];
+	char typeOfFile[13];
 
 	/* We allocate memory for the 'HT_info' structure */
 
